@@ -1,0 +1,10 @@
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\VirtualSmartCard\bin\Debug\cards\ISO7816Card.dll
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\VirtualSmartCard\bin\Debug\cards\ISO7816Card.pdb
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\VirtualCardISO7816.csproj.AssemblyReference.cache
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\ISO7816Card.BlobForm.resources
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\CardModule.FileSystemUI.resources
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\VirtualCardISO7816.csproj.GenerateResource.cache
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\VirtualCardISO7816.csproj.CoreCompileInputs.cache
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\ISO7816Card.dll
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\ISO7816Card.pdb
+C:\Users\Jojul\Desktop\skola\bakalarka\ChipCardApplication\ISO7816Card\obj\Debug\ISO7816.Properties.Resources.resources
